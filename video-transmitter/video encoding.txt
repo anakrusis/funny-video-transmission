@@ -1,0 +1,6 @@
+progressive scan
+32x32 pixel black and white
+8192 hz, 8192/1024 = 7.5 frames per second
+Nevermind.
+
+10240hz, 10fps, 6 ticks per frame
